@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "this is my first stream",
+      "description": "my first stream on react base web app development",
+      "userId": "116595037483278807474",
+      "id": 1
+    },
+    {
+      "title": "my second stream",
+      "description": "streaming building app using react redux ",
+      "userId": "116595037483278807474",
+      "id": 2
+    }
+  ]
+}
